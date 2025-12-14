@@ -1,6 +1,7 @@
 // app.js
 const MyArray = require("./classes/array");
 const Stack = require("./classes/stack");
+const Queue = require("./classes/queue");
 
 const arr1 = new MyArray([4, 2, 3]);
 const stack1 = new Stack();
